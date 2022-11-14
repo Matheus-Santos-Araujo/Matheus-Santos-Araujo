@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matheus-Santos-Araujo
+- 👋 Hi, I’m Matheus Araujo
 - 👀 I’m interested in natural computing, artificial intelligence, computer graphics, simulations, artificial vision etc
 - 🌱 I’m currently learning artificial life and geometric modeling
 - 💞️ I’m looking to collaborate on new techniques, frameworks and books on AI
